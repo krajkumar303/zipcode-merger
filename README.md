@@ -11,6 +11,7 @@ Sample OutPut:
 Please input the total number of ZipCode range:
 4
 Please Enter Start ZipCode and End ZipCode Range one per line
+
 94133
 94133 
 94200
@@ -19,6 +20,7 @@ Please Enter Start ZipCode and End ZipCode Range one per line
 94699
 94670
 94899
+
 Original ZipCode Range
 [94133,94133]
 [94200,94299]
